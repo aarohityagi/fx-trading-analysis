@@ -296,10 +296,9 @@ This project uses **financial trading data** containing instrument names, profit
 
 ## Author
 
-**Sarvesh Kumar Sharma**
+**Aarohi Tyagi**
 
-- GitHub: [@shsarv](https://github.com/shsarv)
-- LinkedIn: [in/shsarv](https://linkedin.com/in/shsarv)
+- GitHub: [@aarohityagi](https://github.com/aarohityagi)
 
 ---
 
